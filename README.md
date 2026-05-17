@@ -51,5 +51,23 @@ Columns:
 
 ## Portfolio Summary
 
+
+## Results
+
+- Total customers: 20
+- Churned customers: 9
+- Overall churn rate: 45%
+- Highest churn plan: Enterprise
+- Churned customers had more support tickets on average than retained customers
+- Churned customers were inactive for more days on average than retained customers
+
+## Recommendations
+
+- Prioritize retention outreach for Enterprise customers.
+- Monitor customers with high support ticket counts.
+- Contact customers who have not logged in recently.
+- Review common support issues to reduce churn risk.
+
+
 This project demonstrates how to take raw customer data, ask business questions, calculate important metrics, and turn findings into recommendations.
 
