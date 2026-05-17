@@ -68,6 +68,15 @@ Columns:
 - Contact customers who have not logged in recently.
 - Review common support issues to reduce churn risk.
 
+## Suggested Visuals
+
+This project can be expanded with charts such as:
+
+- Churn rate by subscription plan
+- Average support tickets by churn status
+- Average days since last login by churn status
+- At-risk customers by plan
+
 
 This project demonstrates how to take raw customer data, ask business questions, calculate important metrics, and turn findings into recommendations.
 
